@@ -31,7 +31,7 @@ lead_x_change = 0 #pixeisqandahorizontal
 
 lead_y_change = 0 #pixeisqandavertical
 
-block_size = 5 #aquioqanda
+block_size = 10 #aquioqanda
 
 #enquanto o gameexit ñ é true
 
